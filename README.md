@@ -88,23 +88,7 @@ A C# console application built to practice software engineering principles throu
 
 <br>
 
-## GitHub Statistics
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafael-mglhs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-mglhs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rafael-mglhs&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
 
 ## Roadmap
 
