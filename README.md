@@ -128,7 +128,7 @@ Professional Email
 <br>
 
 <p align="center">
-<i>"Consistency beats intensity."</i>
+<i>"I'll do what I must."</i>
 </p>
 
 <p align="center">
