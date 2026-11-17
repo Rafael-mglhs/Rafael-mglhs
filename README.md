@@ -2,14 +2,6 @@
   <img src="assets/github_dracula_banner.png" width="100%" alt="GitHub Banner"/>
 </p>
 
-<p align="center">
-  <strong>Learning through projects and continuous improvement.</strong>
-</p>
-
-<p align="center">
-  Software Development Student from Brazil • C# • .NET • Backend Development
-</p>
-
 <br>
 
 ## About Me
@@ -85,23 +77,6 @@ A C# console application built to practice software engineering principles throu
 - Object-Oriented Programming
 - Input Validation
 - Continuous Refactoring
-
-<br>
-
-
-
-## Roadmap
-
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- REST API Development
-- Docker
-- Linux
-- Unit Testing
-- Design Patterns
-- SOLID Principles
-- Open Source Contributions
 
 <br>
 
