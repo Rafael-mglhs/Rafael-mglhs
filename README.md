@@ -54,13 +54,13 @@ My goal is to build reliable applications, grow as a developer every day, and ev
 
 ## Currently Learning
 
-- Object-Oriented Programming
 - Clean Code
+- Entity FrameWork Core
+- ASP .NET
+- GraphQL
 - Software Architecture
 - Data Structures & Algorithms
-- JSON Serialization
 - Git Workflow
-- .NET
 
 <br>
 
